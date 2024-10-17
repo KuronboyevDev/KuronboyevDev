@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuronboyevdev&label=Profile%20views&color=0e75b6&style=flat" alt="kuronboyevdev" /> </p>
 
-- 🔭 I’m currently working on **Find Builder Project, Path to Career projects**
+- 🔭 I’m currently working on **"Find Builder Project", "Path to Career" projects**
 
 - 🌱 I’m currently learning **Rest framework**
 
