@@ -10,6 +10,7 @@
 - 💬 Ask me about **python, django, postgreSQL**
 
 - 📫 How to reach me **bektemurquranboyev9@gmail.com**
+- 💻 One of my recent projects **kingtravels.uz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
